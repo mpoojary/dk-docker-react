@@ -49,7 +49,7 @@ jobs:
         application_name: dk-aws-web-app
         environment_name: Dkawswebapp-env
         region: ap-northeast-1
-        version_label: "Sample Application"
+        version_label: "Sample Application-101"
         deployment_package: deploy.zip
 
     - name: Deployed!
